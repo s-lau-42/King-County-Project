@@ -1,5 +1,5 @@
 # King-County-Project
-King County house price project
+King County house price project - first project done in a datascience bootcamp
 
 In this python project I will be analysing a provided dataset of house prices and features of King County.
 The data consists of entries from the years 2014 and 2015.
